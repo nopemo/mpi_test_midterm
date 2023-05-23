@@ -1,0 +1,10 @@
+*
+!*/
+!*.*
+!.gitignore
+!.gitattributes
+!.gitmodules
+!.gitkeep
+!.git
+
+*.o
